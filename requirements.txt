@@ -1,0 +1,3 @@
+tiktoken
+setuptools-rust
+openai-whisper
